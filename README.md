@@ -39,7 +39,7 @@ Existe una extensión de Google Chrome que se llama [SelectorGadget](https://chr
 
 A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para discutir algunas ideas. Dejaremos acá los enlaces para que sea más fácil revisarlos. 
 
-:link: [Un sitio web](https://programminghistorian.org/es/lecciones/)
+:link: [Un sitio web](https://datascience.uc.cl/que-es-ciencia-de-datos)
 
 :link: [Sitio web estático (tablas)](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
 
