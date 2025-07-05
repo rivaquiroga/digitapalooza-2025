@@ -68,20 +68,20 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 :link: [Página web](https://www.minciencia.gob.cl/noticias/plan-de-data-centers-se-abre-a-consulta-ciudadana-convocada-por-el-ministerio-de-ciencia/)
 
-:page_facing_up: [Código]()
+:page_facing_up: [Código](https://www.dropbox.com/scl/fi/78f5tgxz7tfxsfxd46pbr/ejemplo-1_extraer-texto.py?rlkey=meq24nejfp0mq0h8hqxfwzxc6&dl=0)
 
 
 ### Ejercicio 2: extraer tablas
 
-:link: [Página web ejemplo 1](https://www.worldometers.info/world-population/population-by-country/) / [Página web ejemplo 2](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
+:link: [Página web ejemplo 1](https://www.enap.cl/informacion-comercial/tabla-de-precios-de-paridad) / [Página web ejemplo 2](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
 
-:page_facing_up: Código
+:page_facing_up: [Código](https://www.dropbox.com/scl/fi/3avotsuoe2rtbwfmn4wh8/ejemplo-2_extraer-tablas.py?rlkey=6qgxn05q5rnjmlfxbsyigprcl&dl=0)
 
 ### Ejercicio 3: extraer enlaces y descargar archivos
 
-:link: [Página web]()
+:link: [Página web](https://es.wikipedia.org/wiki/Computadora)
 
-:page_facing_up: Código
+:page_facing_up: [Código](https://www.dropbox.com/scl/fi/6yr10bkeg475fogzrxv99/ejemplo-3_descargar-archivos.py?rlkey=uy1s6gfxeifieico1y1nl6opd&dl=0)
 
 
 ### Ejercicio 4: demo selenium
@@ -90,7 +90,7 @@ Al final del taller haremos una demostración de cómo extraer datos de sitios w
 
 :link: [Página web ejemplo 1](https://www.camara.cl/transparencia/oficinasparlamentarias.aspx) / [Página web ejemplo 2](https://www.memoriachilena.gob.cl)
 
-:page_facing_up: Código
+:page_facing_up: [Código](https://www.dropbox.com/scl/fi/g579wycz844t821ti3ec4/ejemplo-4_demo-selenium.py?rlkey=uzc4ffp5m29y83xyh0734ts0w&dl=0)
 
 
 
