@@ -66,7 +66,7 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 ### Ejercicio 1: extraer texto
 
-:link: [Página web](https://www.minciencia.gob.cl/noticias/plan-de-data-centers-se-abre-a-consulta-ciudadana-convocada-por-el-ministerio-de-ciencia/)
+:link: [Página web](https://www.minciencia.gob.cl/noticias/minciencia-elige-a-plataforma-algoritmos-publicos-para-representar-a-chile-en-premio-de-unesco-a-la-etica-en-ia/)
 
 :page_facing_up: [Código](https://www.dropbox.com/scl/fi/78f5tgxz7tfxsfxd46pbr/ejemplo-1_extraer-texto.py?rlkey=meq24nejfp0mq0h8hqxfwzxc6&dl=0)
 
